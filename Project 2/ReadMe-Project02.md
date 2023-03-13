@@ -17,9 +17,10 @@ Time spent: **10** hours spent in total\
 \
 
 
-<a href="https://www.loom.com/share/134d4a745aa44accaa2b9eeffd752e28">
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/134d4a745aa44accaa2b9eeffd752e28-with-play.gif">
-  </a>
+![Xcode_-_Codepath_Project03_—_Main_storyboard_-_13_March_2023_AdobeExpress](https://user-images.githubusercontent.com/113995857/224846800-185141a9-8145-4b3f-adef-082adf759a72.gif)
+
+ 
+
 
 
 
@@ -46,16 +47,9 @@ The following **additional** features are implemented:\
 ## Video Walkthrough\
 \
 Here's a walkthrough of implemented user stories:\
-\
-<img src='file:///private/var/folders/ps/v2_fqr251_qbgc_5tbnv9lf40000gn/T/c9dd228cc9f6fdef3e67e428603cb596/Kapture%202023-03-06%20at%2021.35.59.gif' width='' alt='Video Walkthrough' />\
-\
-Or\
-\
-\pard\pardeftab720\partightenfactor0
-\cf2 \outl0\strokewidth0 <img src='https://www.loom.com/share/134d4a745aa44accaa2b9eeffd752e28' width='' alt='Video Walkthrough' />\cf2 \outl0\strokewidth0 \strokec2 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-\
+
+
+
 <!-- Replace this with whatever GIF tool you used! -->\
 GIF created with Loom \
 <!-- Recommended tools:\
