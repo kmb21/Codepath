@@ -20,7 +20,8 @@ Time spent: **10** hours spent in total\
 ![Xcode_-_Codepath_Project03_—_Main_storyboard_-_13_March_2023_AdobeExpress](https://user-images.githubusercontent.com/113995857/224846800-185141a9-8145-4b3f-adef-082adf759a72.gif)
 
  
-
+**********USE THIS LINK TO VIEW GIF PROPERLY*************
+https://www.loom.com/share/5bfe437c4a36431da0f54e7307ea4cc0
 
 
 
